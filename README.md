@@ -1,3 +1,3 @@
 # BinaryTree-Build-Search
 
-This repository provides a script that generates random integers and builds a binary tree. The code displays the number to which it is related to. Afterward the program picks a number and then searches the tree for that random number.
+This repository contains a script that creates random integers and does a binary search in the table for a random number. The code displays a table filled with numbers and shows the program searching for that random number step by step.
